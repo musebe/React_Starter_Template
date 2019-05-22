@@ -14,7 +14,7 @@ Custom version of create-react-app with some changes and additions
 ## Usage
 
 ```
-git clone git@github.com:bradtraversy/tm-react-starter.git
+git clone git@github.com:musebe/React_Starter_Template.git
 npm install
 ```
 
